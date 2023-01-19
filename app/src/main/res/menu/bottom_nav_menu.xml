@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/fi_rs_home"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/fi_rs_heart"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/navigation_favourites"
+
+        android:icon="@drawable/fi_rs_shopping_cart_add"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/navigation_search2"
+        android:icon="@drawable/vector"
+        tools:ignore="MenuTitle" />
+
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">toekang.sayur</string>
+    <string name="Domisilis">
+        <item>Jakarta Selatan</item>
+        <item>Jakarta Utara</item>
+        <item>Jakarta Barat</item>
+        <item>Jakarta Timur</item>
+
+    </string>
+
+</resources>

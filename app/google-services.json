@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414113108051",
+    "project_id": "toekang-7e77c",
+    "storage_bucket": "toekang-7e77c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414113108051:android:82ccd9c62f8fb2b95cb6a6",
+        "android_client_info": {
+          "package_name": "com.toekang.sayur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414113108051-cg8q4gh39unmj1m9un1lji17i3350bgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZkfqOL8X8sI_hhRVO804N38ZR4mKsQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414113108051-cg8q4gh39unmj1m9un1lji17i3350bgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
